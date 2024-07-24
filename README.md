@@ -1,2 +1,1 @@
-# advanced-space-repetition
-Advanced Spaced Repetition Prompt Generator
+# Advanced Spaced Repetition Prompt Generator
